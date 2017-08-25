@@ -1,0 +1,10 @@
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\BaseballClassLibrary\bin\Debug\BaseballClassLibrary.dll.config
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\BaseballClassLibrary\bin\Debug\BaseballClassLibrary.dll
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\BaseballClassLibrary\bin\Debug\BaseballClassLibrary.pdb
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\BaseballClassLibrary\bin\Debug\EntityFramework.dll
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\BaseballClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\BaseballClassLibrary\bin\Debug\EntityFramework.xml
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\BaseballClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\BaseballClassLibrary\obj\Debug\BaseballClassLibrary.csprojResolveAssemblyReference.cache
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\BaseballClassLibrary\obj\Debug\BaseballClassLibrary.dll
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\BaseballClassLibrary\obj\Debug\BaseballClassLibrary.pdb

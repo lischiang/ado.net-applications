@@ -1,0 +1,27 @@
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\DisplayBooks\bin\Debug\DisplayBooks.exe.config
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\DisplayBooks\bin\Debug\DisplayBooks.exe
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\DisplayBooks\bin\Debug\DisplayBooks.pdb
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\DisplayBooks\bin\Debug\BookClassLibrary.dll
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\DisplayBooks\bin\Debug\EntityFramework.dll
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\DisplayBooks\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\DisplayBooks\bin\Debug\BookClassLibrary.pdb
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\DisplayBooks\bin\Debug\EntityFramework.xml
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\DisplayBooks\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\DisplayBooks\obj\Debug\DisplayBooks.csprojResolveAssemblyReference.cache
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\DisplayBooks\obj\Debug\DisplayBooks.DisplayBooksForm.resources
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\DisplayBooks\obj\Debug\DisplayBooks.Properties.Resources.resources
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\DisplayBooks\obj\Debug\DisplayBooks.csproj.GenerateResource.Cache
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\DisplayBooks\obj\Debug\DisplayBooks.exe
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\DisplayBooks\obj\Debug\DisplayBooks.pdb
+C:\Users\LisaLisa\Documents\Visual Studio 2015\Projects\A3_Question2 - Copy\DisplayBooks\bin\Debug\DisplayBooks.exe.config
+C:\Users\LisaLisa\Documents\Visual Studio 2015\Projects\A3_Question2 - Copy\DisplayBooks\obj\Debug\DisplayBooks.exe
+C:\Users\LisaLisa\Documents\Visual Studio 2015\Projects\A3_Question2 - Copy\DisplayBooks\obj\Debug\DisplayBooks.pdb
+C:\Users\LisaLisa\Documents\Visual Studio 2015\Projects\A3_Question2_copy\DisplayBooks\bin\Debug\DisplayBooks.exe.config
+C:\Users\LisaLisa\Documents\Visual Studio 2015\Projects\A3_Question2_copy\DisplayBooks\obj\Debug\DisplayBooks.exe
+C:\Users\LisaLisa\Documents\Visual Studio 2015\Projects\A3_Question2_copy\DisplayBooks\obj\Debug\DisplayBooks.pdb
+C:\Users\LisaLisa\Documents\Visual Studio 2015\Projects\ADO.NET applications\A3_Question2\DisplayBooks\bin\Debug\DisplayBooks.exe.config
+C:\Users\LisaLisa\Documents\Visual Studio 2015\Projects\ADO.NET applications\A3_Question2\DisplayBooks\obj\Debug\DisplayBooks.exe
+C:\Users\LisaLisa\Documents\Visual Studio 2015\Projects\ADO.NET applications\A3_Question2\DisplayBooks\obj\Debug\DisplayBooks.pdb
+C:\Users\LisaLisa\Documents\Visual Studio 2015\Projects\ADO.NET applications\BooksAndAuthors\DisplayBooks\bin\Debug\DisplayBooks.exe.config
+C:\Users\LisaLisa\Documents\Visual Studio 2015\Projects\ADO.NET applications\BooksAndAuthors\DisplayBooks\obj\Debug\DisplayBooks.exe
+C:\Users\LisaLisa\Documents\Visual Studio 2015\Projects\ADO.NET applications\BooksAndAuthors\DisplayBooks\obj\Debug\DisplayBooks.pdb

@@ -1,0 +1,15 @@
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\DisplayBaseballPlayers\bin\Debug\DisplayBaseballPlayers.exe.config
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\DisplayBaseballPlayers\bin\Debug\DisplayBaseballPlayers.exe
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\DisplayBaseballPlayers\bin\Debug\DisplayBaseballPlayers.pdb
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\DisplayBaseballPlayers\bin\Debug\BaseballClassLibrary.dll
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\DisplayBaseballPlayers\bin\Debug\EntityFramework.dll
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\DisplayBaseballPlayers\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\DisplayBaseballPlayers\bin\Debug\BaseballClassLibrary.pdb
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\DisplayBaseballPlayers\bin\Debug\EntityFramework.xml
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\DisplayBaseballPlayers\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\DisplayBaseballPlayers\obj\Debug\DisplayBaseballPlayers.csprojResolveAssemblyReference.cache
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\DisplayBaseballPlayers\obj\Debug\DisplayBaseballPlayers.BaseballPlayers.resources
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\DisplayBaseballPlayers\obj\Debug\DisplayBaseballPlayers.Properties.Resources.resources
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\DisplayBaseballPlayers\obj\Debug\DisplayBaseballPlayers.csproj.GenerateResource.Cache
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\DisplayBaseballPlayers\obj\Debug\DisplayBaseballPlayers.exe
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question1\DisplayBaseballPlayers\obj\Debug\DisplayBaseballPlayers.pdb

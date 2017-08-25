@@ -1,0 +1,10 @@
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\BookClassLibrary\bin\Debug\BookClassLibrary.dll.config
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\BookClassLibrary\bin\Debug\BookClassLibrary.dll
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\BookClassLibrary\bin\Debug\BookClassLibrary.pdb
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\BookClassLibrary\bin\Debug\EntityFramework.dll
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\BookClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\BookClassLibrary\bin\Debug\EntityFramework.xml
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\BookClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\BookClassLibrary\obj\Debug\BookClassLibrary.csprojResolveAssemblyReference.cache
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\BookClassLibrary\obj\Debug\BookClassLibrary.dll
+c:\users\lisalisa\documents\visual studio 2015\Projects\A3_Question2\BookClassLibrary\obj\Debug\BookClassLibrary.pdb
